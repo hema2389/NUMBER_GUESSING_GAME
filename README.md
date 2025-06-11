@@ -32,3 +32,11 @@ Enter your guess: 75
 Too high.. Guess a little lower.
 Enter your guess: 68
 🎉 Hurray! You found the number 68 in 3 attempts.
+
+## Project Structure
+number_game/
+├── number_game.py
+└── README.md
+
+## ✅ Author
+Made using Python as part of a learning journey in mini projects.
